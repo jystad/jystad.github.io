@@ -14,9 +14,6 @@ p {
   font: 15px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
 
-p {
-  text-align: right;
-  color: red; }
 
 #para1 {
   text-align: left;
