@@ -16,14 +16,14 @@ p {
 
 p {
   text-align: right;
-  color: red;
+  color: red; }
 
 #para1 {
   text-align: left;
   color: black;
 }
   
-  #para2 {
+#para2 {
   text-align: center;
   color: red;
 }
